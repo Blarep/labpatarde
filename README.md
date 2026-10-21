@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Este es el **lab** de pa de la tarde del miercoles y tengo muchos commits :)
+Este es el **lab** de pa de la tarde, tiene 2 commits :)
 
 > Este es un bloquecito
 ### Pasos de git
